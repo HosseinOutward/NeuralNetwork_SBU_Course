@@ -1,4 +1,4 @@
-from project4_2.NN_Base import *
+from project4.NN_Base import *
 
 
 def count_y():

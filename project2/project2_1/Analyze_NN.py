@@ -1,4 +1,4 @@
-from project2_1.NN_Base import *
+from project2.project2_1.NN_Base import *
 
 
 def test_mean_results(f, dataX, dataY, validX, validY, dL, r=3, epo=3):
